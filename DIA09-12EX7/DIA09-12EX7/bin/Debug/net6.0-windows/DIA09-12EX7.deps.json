@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DIA09-12EX7/1.0.0": {
+        "runtime": {
+          "DIA09-12EX7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIA09-12EX7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
